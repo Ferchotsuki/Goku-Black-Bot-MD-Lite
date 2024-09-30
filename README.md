@@ -1,10 +1,10 @@
->👑𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Ivan
+>👑𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Saiyan
 
 >🪼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: Dioneibi 
 
 >🪼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: Jostin
 
-## `Goku-Black-Bot-MD-Lite` 
+## `Saiyan-Bot-MD-Lite` 
 <p align="center">
 <img src="https://telegra.ph/file/49baa73f0c2f42ad7e85b.png" alt="Goku-Black-Bot-MD-Lite" width="900"/>
 </p>
@@ -13,7 +13,7 @@
 
 
 
-### `✨Goku-Black-Bot-MD-Lite✨`
+### `✨Saiyan-Bot-MD-Lite✨`
 
 <a href="https://api.whatsapp.com/send/?phone=595992809980&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
@@ -114,8 +114,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <td align="center"><a 
 <a href="[https://github.com/Jostin207]"><img src="https://github.com/Jostin207.png" width="100" height="100" alt="Jostin"/></a>
   
-## `Goku-Black-Bot-MD-Lite`
-## `Dueño:Ivan`
+## `Saiyan-Bot-MD-Lite`
+## `Dueño:Saiyan`
 
 ____
 ### **`Superiority Pro Hosting 🤖`**
